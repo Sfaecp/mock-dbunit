@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<AccTypeVO id="0" accTypeCode="Mr" accTypeName="Phillip" accSuperTypeCode="Webb"/>
+	<AccTypeVO id="1" accTypeCode="Mrs" accTypeName="Mario" accSuperTypeCode="Zagar"/>
+</dataset>
